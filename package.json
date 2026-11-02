@@ -1,0 +1,14 @@
+{
+  "name": "test-ai-dev-team",
+  "version": "1.0.0",
+  "description": "This repository is used to test my autonomous\r AI developer team and GitHub integration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test",
+    "build": "node --check src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
